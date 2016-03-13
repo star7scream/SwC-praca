@@ -1,0 +1,1 @@
+Repozytorium z wasztatów git prowadzonych przez SwC

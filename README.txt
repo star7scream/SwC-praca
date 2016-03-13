@@ -1,0 +1,1 @@
+Pliki z warsztatów GIT prowadzonych przez Software Carpentry w Krakowie
